@@ -1,7 +1,9 @@
-# Instrucciones
+# Instructions
 
-Instalar dependencias:
-  Con npm: `npm install`
-  Con yarn: `yarn`
+Install Dependencies:
+  npm: `npm install`
+  yarn: `yarn`
 
-Compilar: `npx tsc`
+Watch and Build
+  npm: `npm run dev`
+  yarn: `yarn dev`
